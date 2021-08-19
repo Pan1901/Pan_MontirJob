@@ -23,3 +23,12 @@ INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_
 	('mechanic',3,'chief','Chief',85,'{}','{}'),
 	('mechanic',4,'boss','Boss',100,'{}','{}')
 ;
+
+INSERT INTO `items`(name, label, `limit`) VALUES
+	('gazbottle', 'Gas Bottol', 11),
+	('fixtool', 'Repair Tools', 6),
+	('carotool', 'Body tool', 4),
+	('blowpipe', 'Welding Tube', 10),
+	('fixkit', 'Repair Kit', 5),
+	('carokit', 'Body Kit', 3)
+;
