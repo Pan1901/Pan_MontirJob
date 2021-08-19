@@ -1,6 +1,5 @@
 # Pan_MontirJob
 Requirements
 
-[esx_billing]
-
-[esx_vehicleshop]
++[esx_billing]
++[esx_vehicleshop]
